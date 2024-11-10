@@ -11,8 +11,8 @@ public class Pegawai {
 	}
 
     public void displayInfo() {
-        System.out.println("NIP : " + nip);
-        System.out.println("Nama: " + nama);
-        System.out.println("------------");
+        System.out.println("NIP     : " + nip);
+        System.out.println("Nama    : " + nama);
+        System.out.println("----------------------------");
     }
 }

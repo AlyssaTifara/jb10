@@ -8,7 +8,7 @@ public class Dosen extends Pegawai {
 
 	public void displayInfo() {
 		super.displayInfo();
-		System.out.println("NIDN: " + nidn);
+		System.out.println("NIDN	: " + nidn);
 	}
 
 	public void mengajar() {
